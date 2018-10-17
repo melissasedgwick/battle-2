@@ -1,4 +1,4 @@
-feature 'attack player' do
+feature 'Attack' do
   scenario 'shows confirmation when attacking player 2' do
     sign_in_and_play
     click_link 'Attack'
